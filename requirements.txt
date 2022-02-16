@@ -1,0 +1,16 @@
+loguru
+# libzbar0
+pyzbar
+kraken
+pdf2image
+opencv_contrib_python
+opencv-python
+Flask_SocketIO
+pytesseract
+Flask
+pandas
+numpy
+Flask_Cors
+Pillow
+matplotlib
+scipy
